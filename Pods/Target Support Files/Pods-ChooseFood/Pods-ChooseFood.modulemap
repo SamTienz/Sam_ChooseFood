@@ -1,0 +1,6 @@
+framework module Pods_ChooseFood {
+  umbrella header "Pods-ChooseFood-umbrella.h"
+
+  export *
+  module * { export * }
+}
